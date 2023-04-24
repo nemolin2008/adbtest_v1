@@ -1,0 +1,10 @@
+numexpr
+numpy>=1.23.0
+pandas
+pytest
+pytest-cov
+canmatrix[arxml,dbc]>=0.8
+lz4
+typing_extensions
+python-dateutil
+isal; platform_machine == "x86_64" or platform_machine == "AMD64"
